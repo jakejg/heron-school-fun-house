@@ -1,6 +1,0 @@
-javascript
-python
-C++
-C
-Kotlin
-R
