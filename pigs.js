@@ -14,11 +14,11 @@ const rolls = [
   {
     name: 'Pig Out (Lose all turn points)',
     points: 0,
-    probability: 0.2,
+    probability: 0,
     pigOut: true,
   },
   {name:"MegaPig (100 points)",points:100,probability:0.000000001},
-  {name:"apocapig (lose all points)",points:0,probability:0.02}
+  {name:"apocapig (lose all points)",points:0,probability:0.22}
 ];
 
 // Function to randomly select a roll based on probabilities
