@@ -1,0 +1,1 @@
+// if you're seeing this, its already too late, kormperbland is already after you. if you dont forward this text to 10 files within 24 hours, you will doomed to a fate worse than death, kormperbland stalks his prey before he consumes, if i were you, you should start sending this to 10 files, before its too late.
