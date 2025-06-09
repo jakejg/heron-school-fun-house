@@ -1,11 +1,18 @@
 #include <iostream>
-int main(){
+#include <chrono>
+#include <thread>
+
+int main() {
     int age;
-    std::cout << "what is your age?";
+    std::cout << "What is your age? ";
     std::cin >> age;
-    if(age >= 18){
-        std::cout << "you are an adult";
-    }else{
-        std::cout << "you are not an adult"
+
+    if (age >= 18) {
+        std::cout << "You are an adult";
+    } else {
+        std::cout << "You are not an adult";
     }
+
+    std::this_thread::sleep_for(std::chrono::seconds(5));
+    return 0;
 }
